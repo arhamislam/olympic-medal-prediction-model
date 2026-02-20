@@ -2,7 +2,7 @@
 
 ## Steps to Build a Machine Learning Project
 
-1. Form a Hypoethesis
+1. Form a Hypothesis
 > We can predict how many medals a country will win in the Olympics.
 
 2. Find the Data
